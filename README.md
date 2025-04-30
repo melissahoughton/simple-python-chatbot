@@ -6,7 +6,7 @@ This project is a simple chatbot application built using Python. It serves as an
 
 You can develop and run this chatbot directly in your browser without installing anything!
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=simple-python-chatbot)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=melissahoughton/simple-python-chatbot)
 
 Simply click the button above to create a new Codespace. Once it's ready, you can run the chatbot by typing `python app.py` in the terminal.
 
